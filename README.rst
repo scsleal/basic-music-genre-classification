@@ -1,4 +1,6 @@
-# Resumo
+******
+Resumo
+******
 
 O presente projeto visa comparar o desempenho de determinados modelos de Machine Learning (ML) aplicados na classificação de gênero musical com base no dataset *GTZAN Dataset - Music Genre Classification* disponível no site do Kaggle. Também foi realizado uma breve análise exploratória de dados de um trecho de uma música utilizando o pacote *Librosa*, dedicada a análise de áudio e música.
 
